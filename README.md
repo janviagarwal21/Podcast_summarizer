@@ -12,5 +12,3 @@ In terms of implementation, we utilized Google Colab, Notepad++, and Jupyter Not
 For evaluation, we employed the ROUGE (Recall-Oriented Understudy for Gisting Evaluation) package to collectively assess the quality of our summarization model. The discussion of ROUGE scores, including precision, recall, and F1 scores, provided valuable insights into how well our system-generated summary aligned with the reference summary.
 
 In conclusion, our project highlighted the strengths and areas for improvement, particularly emphasizing the need for enhancements in capturing bigrams. The appendices include resources such as the Colab Python script and a link to our GitHub repository, facilitating further exploration and understanding of our project.
-
-In summary, our "Podcast Summarization Model" project represents our ambitious and successful endeavor to address a pertinent need in the podcasting domain, showcasing our proficiency in leveraging advanced NLP techniques for practical applications.
